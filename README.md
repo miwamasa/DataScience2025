@@ -39,9 +39,9 @@
 |---|---|---|---|---|
 |Lecture1|4/8(火) |はじめに||
 |||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture1.ipynb)|ok|
-|||ColabでLLMを動かす(youri_7b)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture1_youri_7b_instruction_gptq.ipynb)|in preparation|
-|||ColabでLLMを動かす(open_calm_3b)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture1_open_calm_3b.ipynb)|in preparation|
-|Lecture2|4/11(金) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture2.ipynb)|in preparation|
+|||ColabでLLMを動かす(youri_7b)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture1_youri_7b_instruction_gptq.ipynb)|in preparation|
+|||ColabでLLMを動かす(open_calm_3b)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture1_open_calm_3b.ipynb)|in preparation|
+|Lecture2|4/11(金) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture2.ipynb)|in preparation|
 |Lecture3|4/15(火) |データの取得と操作|  |in preparation|
 |||pandasの利用| |in preparation|
 |||実習|  |in preparation|
