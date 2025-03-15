@@ -1,10 +1,10 @@
-# DataScience2024
+# DataScience2025
 
 
 <div dir='rtl'>
 産業技術大学院大学</br>
 担当: 岩政</br>
-2024年4月8日～6月3日
+2025年4月8日～6月3日
 </div>
 
 
