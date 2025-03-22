@@ -44,7 +44,7 @@
 |Lecture2|4/11(金) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture2.ipynb)|in preparation|
 |Lecture3|4/15(火) |データの取得と操作|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture3.ipynb)  |in preparation|
 |||pandasの利用|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture3_pandas.ipynb) |in preparation|
-|||実習|  |in preparation|
+|||実習| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture3_practice.ipynb)  |in preparation|
 |Lecture4|4/18(金)|データの可視化| |in preparation|
 |||マンガで学ぶ..「1.棒グラフ」|  |in preparation|
 |||Extra(アンケート結果)| |in preparation|
