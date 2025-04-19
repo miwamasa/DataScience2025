@@ -48,8 +48,8 @@
 |Lecture4|4/18(金)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture4_matplotlib.ipynb)|in preparation|
 |||マンガで学ぶ..「1.棒グラフ」|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture4_extra_1.ipynb)|  |in preparation|
 |||Extra(アンケート結果)| |in preparation|
-|Lecture5|4/22(火)|統計分布の基礎 ||in preparation|
-|Lecture6|4/25(金)|回帰分析1| |in preparation|
+|Lecture5|4/22(火)|統計分布の基礎 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture5.ipynb)|in preparation|
+|Lecture6|4/25(金)|回帰分析1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture6.ipynb)|in preparation|
 |||事例(Game)| |in preparation|
 |Lecture7|4/29(火)|回帰分析2| |in preparation|
 |||重回帰分析（変数選択）| |in preparation|
