@@ -50,7 +50,7 @@
 |||Extra(アンケート結果)| |in preparation|
 |Lecture5|4/22(火)|統計分布の基礎 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture5.ipynb)|in preparation|
 |Lecture6|4/25(金)|回帰分析1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture6.ipynb)|in preparation|
-|||事例(Game)| |in preparation|
+|||事例(Game)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture6_games.ipynb)|in preparation|
 |Lecture7|4/29(火)|回帰分析2| |in preparation|
 |||重回帰分析（変数選択）| |in preparation|
 |||重回帰分析（交絡因子）| |in preparation|
