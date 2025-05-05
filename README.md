@@ -55,9 +55,9 @@
 |||重回帰分析（変数選択）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture7_AIC.ipynb) |in preparation|
 |||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture7_multiple_regression.ipynb) |in preparation|
 |||重回帰分析（ダミー変数）| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture7_multi_reg_category.ipynb)|in preparation|
-|Lecture8|5/9(金)|パターン認識1||in preparation|
-|||SVMの例||ok|
-|||SVMを最適化で解く||in preparation|
+|Lecture8|5/9(金)|パターン認識1| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture8.ipynb)|in preparation|
+|||SVMの例| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture8_SVM.ipynb)|ok|
+|||SVMを最適化で解く| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture8_svm_optimize.ipynb)|in preparation|
 |Lecture9|5/13(火)|パターン認識2|
 |||クラス分類| |in preparation|
 |||クラスタリング| |in preparation|
