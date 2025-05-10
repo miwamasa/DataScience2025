@@ -59,8 +59,8 @@
 |||SVMの例| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture8_SVM.ipynb)|ok|
 |||SVMを最適化で解く| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture8_svm_optimize.ipynb)|ok|
 |Lecture9|5/13(火)|パターン認識2|
-|||クラス分類| |in preparation|
-|||クラスタリング| |in preparation|
+|||クラス分類| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture9_classification.ipynb)|ok
+|||クラスタリング| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture9_clustering.ipynb)|ok|
 |Lecture10|5/16(金)|動的システムの表現| |in preparation|
 |Lecture11|5/20(火)|時系列||in preparation|
 |Lecture12|5/23(金)|状態空間モデル||in preparation|
