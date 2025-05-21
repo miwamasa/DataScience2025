@@ -63,8 +63,8 @@
 |||クラスタリング| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture9_clustering.ipynb)|ok|
 |Lecture10|5/16(金)|動的システムの表現| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture10.ipynb)|ok|
 |Lecture11|5/20(火)|時系列|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture11.ipynb)|ok|
-|Lecture12|5/23(金)|状態空間モデル||in preparation|
-|||周波数分析||in preparation|
+|Lecture12|5/23(金)|状態空間モデル|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture12.ipynb)|ok|
+|||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture12_frequency.ipynb)|ok|
 |Lecture13|5/27(火)|画像分析||in preparation|
 |Lecture14|5/30(金)|LLM時代のデータサイエンスとは|
 |||Transformer入門||in preparation|
