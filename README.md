@@ -65,15 +65,15 @@
 |Lecture11|5/20(火)|時系列|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture11.ipynb)|ok|
 |Lecture12|5/23(金)|状態空間モデル|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture12.ipynb)|ok|
 |||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture12_frequency.ipynb)|ok|
-|Lecture13|5/27(火)|画像分析||in preparation|
+|Lecture13|5/27(火)|画像分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture13.ipynb)|ok|
 |Lecture14|5/30(金)|LLM時代のデータサイエンスとは|
 |||Transformer入門||in preparation|
 |||テキスト生成||in preparation|
 |||Q&A||in preparation|
 |||OllamaでRAG||in preparation|
 |||LLMでtitanic分析|  |in preparation|
-|Lecture15|6/3(金)|発展的話題とまとめ|
-|予備|6/6(火)|
+|Lecture15|6/3(火)|発展的話題とまとめ|
+|予備|6/6(金)|
 
 
 <!-- |Lecture3|4/13(水)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture3_matplotlib.ipynb)|in_progress|
