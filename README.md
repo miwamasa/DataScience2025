@@ -70,7 +70,7 @@
 |||Transformer入門|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lec14_transformer_intro.ipynb)|ok|
 |||テキスト生成|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lec14_transformer_textgeneration.ipynb)|ok|
 |||Q&A|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lec14_transformer_qanda.ipynb)|ok|
-|||OllamaでRAG|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture14_RAG_with_local_LLM.ipynb)|ok|
+|||OllamaでRAG|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture14_RAG_with_local_LLM2025.ipynb)|ok|
 |||LLMでtitanic分析|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/pandas_agent_sample2024.ipynb)|ok|
 |Lecture15|6/3(火)|発展的話題とまとめ|
 |予備|6/6(金)|
